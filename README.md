@@ -1,5 +1,3 @@
-App Demo https://media.giphy.com/media/1sw6syoMDm6QEu9Stk/giphy.gif
-
 **What this app about ?**
 
 This is a mock grocery purchase app built on the serverless technology.
